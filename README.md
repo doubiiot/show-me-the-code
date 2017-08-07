@@ -7,6 +7,6 @@ Python 练习册，每天一个小程序:https://github.com/Yixiaohan/show-me-th
 
 所有代码环境是python 3.5
 
-博客：doubiiot.cn   http://blog.csdn.net/qq_35614920
+博客：www.doubiiot.cn   http://blog.csdn.net/qq_35614920
 
 欢迎大佬们赐教
